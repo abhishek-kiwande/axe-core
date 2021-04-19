@@ -6,3 +6,4 @@ module.exports = {
 	source: '(function () {\n<%=source%>\n}())',
 	commons: '<%=source%>'
 };
+007
